@@ -1,0 +1,23 @@
+body {
+	padding: 50px;
+}
+
+.card {
+	width: 600px;
+}
+
+
+.header {
+	padding: 3rem;
+	border-radius: 12px;
+}
+
+.header.light {
+	background-color: #def2ee;
+	color: #000;
+}
+
+.header.dark {
+	background-color: #2d2d2d;
+	color: #fff;
+}
